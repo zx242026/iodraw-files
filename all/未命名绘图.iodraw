@@ -70,8 +70,8 @@
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-34" value="蠕变相场模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;" vertex="1" parent="1">
-          <mxGeometry x="930" y="360" width="100" height="60" as="geometry" />
+        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-35" value="数值求解&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;" vertex="1" parent="1">
+          <mxGeometry x="920" y="355" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
