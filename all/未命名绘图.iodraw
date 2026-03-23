@@ -59,10 +59,13 @@
           <mxGeometry x="850" y="310" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-30" value="相场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="300" width="70" height="20" as="geometry" />
+          <mxGeometry x="770" y="310" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-31" value="温度场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="280" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="270" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
