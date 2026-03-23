@@ -26,7 +26,7 @@
           <mxGeometry x="470" y="410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-11" value="微结构特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="410" width="20" height="50" as="geometry" />
+          <mxGeometry x="610" y="400" width="20" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
