@@ -58,6 +58,9 @@
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-29" value="应力应变场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="320" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-30" value="相场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
