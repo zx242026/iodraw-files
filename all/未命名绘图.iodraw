@@ -16,8 +16,8 @@
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-7" value="TEM&amp;nbsp; &amp;nbsp; &amp;nbsp;EDS&lt;div&gt;&lt;br&gt;&lt;div&gt;XRD&amp;nbsp; &amp;nbsp; &amp;nbsp;APT&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
