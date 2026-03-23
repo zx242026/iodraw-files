@@ -25,6 +25,9 @@
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-10" value="元素分布&amp;nbsp; &amp;nbsp; 相形貌&lt;div&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp; 晶粒尺寸&amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;位错结构&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="410" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
