@@ -37,7 +37,7 @@
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-17" value="宏观性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kWCdc_ZJYauVE_5b0Z3H-19" value="蠕变曲线&amp;nbsp; &amp;nbsp; 蠕变寿命&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;稳态蠕变速率&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kWCdc_ZJYauVE_5b0Z3H-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
